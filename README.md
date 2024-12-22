@@ -51,14 +51,13 @@ print(c)
 ```
 ## Output:
 ### 1-Norm of a Matrix
-![Alt text](<Screenshot from 2024-12-22 09-28-22-1.png>)
+![Alt text](<Screenshot from 2024-12-22 09-28-22.png>)
 
 ### 2-Norm of a  Matrix
-![Alt text](<Screenshot from 2024-12-22 09-28-36-2.png>)
+![Alt text](<Screenshot from 2024-12-22 09-28-36.png>)
 
 ### Infinity Norm of a Matrix
-![Alt text](<Screenshot from 2024-12-22 09-28-51-1.png>)
-
+![Alt text](<Screenshot from 2024-12-22 09-28-51.png>)
 
 ## Result
 Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
