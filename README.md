@@ -52,7 +52,7 @@ print(c)
 
 
 
-```
+
 ### Output:
 ### 1-Norm of a Matrix
 ![Alt text](image.png)
