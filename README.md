@@ -51,10 +51,10 @@ print(c)
 ```
 ## Output:
 ### 1-Norm of a Matrix
-![Alt text](<Screenshot from 2024-12-22 09-28-22.png>)
+![Alt text](<Screenshot from 2024-12-22 09-28-22-2.png>)
 
 ### 2-Norm of a  Matrix
-![Alt text](<Screenshot from 2024-12-22 09-28-36.png>)
+![Alt text](<Screenshot from 2024-12-22 09-28-36-3.png>)
 
 ### Infinity Norm of a Matrix
 ![Alt text](<Screenshot from 2024-12-22 09-28-51-2.png>)
