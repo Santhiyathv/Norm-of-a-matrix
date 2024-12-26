@@ -53,7 +53,7 @@ print(c)
 
 
 ```
-## Output:
+### Output:
 ### 1-Norm of a Matrix
 ![Alt text](image.png)
 
@@ -61,7 +61,7 @@ print(c)
 ![Alt text](image-1.png)
 
 ### Infinity Norm of a Matrix
-
 ![Alt text](image-2.png)
+
 ## Result
 Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
